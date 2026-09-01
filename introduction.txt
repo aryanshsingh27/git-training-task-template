@@ -4,3 +4,21 @@ I have a strong interest in technology and software development.
 I am currently learning programming and exploring different areas of computer science.
 I believe in continuously improving myself through learning and practice.
 My goal is to use technology and creativity to build meaningful and impactful projects.
+Skills:
+
+* C Programming
+* Python
+* Git and GitHub
+* UI/UX Design
+* Figma
+* Basic Web Development
+
+Hobbies:
+
+* Gaming
+* Drawing
+* Designing
+* Exploring new technologies
+* Learning new skills
+
+
